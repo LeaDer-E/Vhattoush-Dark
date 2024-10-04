@@ -1,6 +1,7 @@
 # Vhattoush Dark v1.3.6
 
 **Vhattoush Dark** is a Chrome extension that enables a dark mode for web pages. With a simple toggle, users can switch between light and dark themes, improving the browsing experience, especially in low-light environments.
+it's working only at the tab you spicific it not at all browser tab
 
 ## Features
 
@@ -20,7 +21,7 @@
 ## Usage
 
 1. Click on the **Vhattoush Dark** extension icon in the Chrome toolbar.
-2. Press the **Activate Me** button to enable dark mode on the current tab.
+2. Press the **Activate Me** button to enable dark mode on the current tab. (if not work please press refresh at page)
 3. Press the **Deactivate Me** button to return to the default light mode.
 4. The state of dark mode will persist as you navigate between pages within the same tab.
 
