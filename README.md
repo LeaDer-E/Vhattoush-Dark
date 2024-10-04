@@ -1,7 +1,7 @@
 # Vhattoush Dark v1.3.6
 
 **Vhattoush Dark** is a Chrome extension that enables a dark mode for web pages. With a simple toggle, users can switch between light and dark themes, improving the browsing experience, especially in low-light environments.
-it's working only at the tab you spicific it not at all browser tab
+it's working only at the tab you spicific it not at all browser tabs
 
 ## Features
 
